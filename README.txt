@@ -67,7 +67,7 @@ https://1drv.ms/p/s!AsKPX_vZuHCqg6ZWzNdLgpKzawcb7A?e=sZzvo1
 
 ----------------------------------------------------------------------------------------
 
-For Codacademy students.
+For Codecademy students.
 
 In order to complete this project, 
 you should have completed the Pandas lessons in the Analyze Data with Python Skill Path. 
