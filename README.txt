@@ -59,9 +59,11 @@ jeopardy_console_game\ jeopardy_console_game_presentation.pdf
 Links
 
 PowerPoint Jeopardy the console game Presentation:
-https://onedrive.live.com/view.aspx?resid=AA70B8D9FB5F8FC2!54066&ithint=file%2cpptx&authkey=!ACCBvGKY1G_GkyM
+https://1drv.ms/p/s!AsKPX_vZuHCqg6ZXq7mExCxvvdfMog?e=8V3jj1
 
-Related project:
+Related project Codecademy “this Is Jeopardy”:
+https://1drv.ms/p/s!AsKPX_vZuHCqg6ZWzNdLgpKzawcb7A?e=sZzvo1
+
 
 ----------------------------------------------------------------------------------------
 
