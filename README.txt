@@ -1,5 +1,5 @@
 
-The Jeopardy Console Game is a personnel project, an offshoot from the Codecademy Data Science path, under the Data Analysis with Pandas Phyton library section.
+The Jeopardy Console Game is a personnel project, an offshoot from the Codecademy Data Science path, under the Data Analysis with Pandas Python library section.
 
 It is a Python Pandas library based, solo player Jeopardy console game.
 ----------------------------------------------------------------------------------------
